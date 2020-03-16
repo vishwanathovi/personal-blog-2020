@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: '',
+  url: 'http://vishwahm.tech',
   pathPrefix: '/',
   title: 'Vishwanatha H M',
   subtitle: 'Data scientist.',
