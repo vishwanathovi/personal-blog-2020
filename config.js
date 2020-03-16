@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'http://vishwahm.tech',
+  url: 'https://epic-cray-7ed73f.netlify.com',
   pathPrefix: '/',
   title: 'Vishwanatha H M',
   subtitle: 'Data scientist.',
