@@ -12,7 +12,10 @@ I would like to categorize myself as close to Machine learning engineering than 
 
 I completed my bachelor's in 2013 in Electronics & Communications. Post that i have worked as for last 6 years with companies like <a href="https://www.flipkart.com/" target="_blank">Flipkart</a>, MuSigma & SigTuple. Below is a short timeline and a summary of my professional experience.
 
-<!-- -- Add experience timeline here -->
+#### Education
+--------
+##### Bachelor of Engineering (BE) - Electronics and Communication
+* M S Ramaiah Institute of Technology, Bangalore
 
 <!--
 In this blog, I write about coding, data science concepts and some of my perspectives and experiences) -->
