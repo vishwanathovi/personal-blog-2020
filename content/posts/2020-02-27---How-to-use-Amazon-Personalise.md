@@ -8,13 +8,15 @@ category: "Personal"
 tags:
   - "Coding"
   - "Learning"
-description: "First year of trying to learn to code. "
+description: "First year of learning to code. "
 socialImage: "/media/image-2.jpg"
 ---
 
-It has been little more than a year that I started programming. Even though I was part of the Indian tech community (worked for tech companies like Flipkart, MuSigma), I mostly worked as an analyst with very minimal programming being done on a daily basis.
+It has been little more than a year that I started programming. Even though I was part of the Indian tech community (worked for tech companies like <a href="https://www.flipkart.com/" target="_blank">Flipkart</a>, MuSigma), I mostly worked as an analyst with very minimal programming being done on a daily basis.
 So, last year March, I officially(and finally) decided that I want to learn coding full time and make a career out of it. Below is my experience of the first year into learning to code and a few learnings during the journey.
 Journey
+
+
 First 3 months - (Coding is hard!!!)
 
 
