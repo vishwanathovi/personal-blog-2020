@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: ' Vishwa',
     photo: '/photo-color.jpg',
-    bio: 'Currently Data Scientist @Kiwi Games India, previously worked at @Flipkart, @SigTuple, @MuSigma. I blog about coding, data science & some personal perspectives. More about me 👇',
+    bio: 'Currently Data Scientist @Kiwi Games India, previously worked at @Flipkart, @SigTuple, @MuSigma. I blog about coding, data science & some personal experiences.',
     contacts: {
       email: '',
       facebook: '',
