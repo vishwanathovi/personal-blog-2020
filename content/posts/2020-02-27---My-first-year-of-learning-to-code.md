@@ -18,7 +18,7 @@ So, last year March, I officially(and finally 👊) decided that I want to learn
 ## Journey
 ### First 3 months - (Coding is hard!!!)
 
-<iframe src="https://giphy.com/embed/26gR0YFZxWbnUPtMA" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/26gR0YFZxWbnUPtMA" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 I started learning to code on my own from March of last year. I was still working fulltime as an analyst. I spent around 2–3 hours every day into coding. Mainly I started with HTML, CSS & JS from freecodecamp.com.
 
@@ -38,7 +38,7 @@ I quit my job. Relocated to Dharamshala & started the 6-month program.
 
 ### Middle 6 months-(Learning to code)
 
-<iframe src="https://giphy.com/embed/xUOxeTwAzIULo8oTM4" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eovi-mcd-eovimcd-xUOxeTwAzIULo8oTM4">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xUOxeTwAzIULo8oTM4" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 As most of the bootcamps, AltCampus was a mentor-driven 6-month program covering MERN(MongoDB, Express.js, React.js & Node.js) stack. The first 4 months went into learning the tech stack and last 2 months into working on full-scale projects and applying to companies.
 
@@ -51,7 +51,7 @@ By the end of the bootcamp, my dilemma of "coding is very hard and only smart pe
 
 ### Last 3 months-(Web developer to Software engineer)
 
-<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 When I quit my last job, I had made sure to save up enough money to take a break of 1–1.5 years to spend time on learning to code. So, I was not in a hurry to get a job.
 Along with that, by now I understood the different tech roles that are out there and what kind of skillset are required to get a specific job.
