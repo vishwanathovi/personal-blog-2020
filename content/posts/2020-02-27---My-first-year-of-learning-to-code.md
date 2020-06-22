@@ -1,5 +1,5 @@
 ---
-title: My first year of learning to code
+title: My First Year Of Learning To Code
 date: "2020-02-27T23:46:37.121Z"
 template: "post"
 draft: false
@@ -8,20 +8,17 @@ category: "Personal"
 tags:
   - "Coding"
   - "Learning"
-description: "First year of learning to code. "
+description: "First year experience with learning to code and the things i learned about learning."
 socialImage: "/media/image-2.jpg"
 ---
 
-It has been little more than a year that I started programming. Even though I was part of the Indian tech community (worked for tech companies like <a href="https://www.flipkart.com/" target="_blank">Flipkart</a>, MuSigma), I mostly worked as an analyst with very minimal programming being done on a daily basis.
+It has been little more than a year that I started programming. Even though I was part of the Indian tech community (worked for tech companies like <a href="https://www.flipkart.com/" target="_blank">Flipkart</a>, <a href="https://www.mu-sigma.com/" target="_blank">MuSigma</a>), I mostly worked as an analyst with very minimal programming being done on a daily basis.
 
 So, last year March, I officially(and finally 👊) decided that I want to learn coding full time and make a career out of it. Below is my experience of the first year into learning to code and a few learnings during the journey.
-
 ## Journey
-
-
 ### First 3 months - (Coding is hard!!!)
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26gR0YFZxWbnUPtMA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/26gR0YFZxWbnUPtMA" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tipsyelves-math-26gR0YFZxWbnUPtMA">via GIPHY</a></p>
 
 I started learning to code on my own from March of last year. I was still working fulltime as an analyst. I spent around 2–3 hours every day into coding. Mainly I started with HTML, CSS & JS from freecodecamp.com.
 
@@ -41,7 +38,7 @@ I quit my job. Relocated to Dharamshala & started the 6-month program.
 
 ### Middle 6 months-(Learning to code)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xUOxeTwAzIULo8oTM4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eovi-mcd-eovimcd-xUOxeTwAzIULo8oTM4">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xUOxeTwAzIULo8oTM4" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eovi-mcd-eovimcd-xUOxeTwAzIULo8oTM4">via GIPHY</a></p>
 
 As most of the bootcamps, AltCampus was a mentor-driven 6-month program covering MERN(MongoDB, Express.js, React.js & Node.js) stack. The first 4 months went into learning the tech stack and last 2 months into working on full-scale projects and applying to companies.
 
@@ -54,14 +51,16 @@ By the end of the bootcamp, my dilemma of "coding is very hard and only smart pe
 
 ### Last 3 months-(Web developer to Software engineer)
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">via GIPHY</a></p>
 
 When I quit my last job, I had made sure to save up enough money to take a break of 1–1.5 years to spend time on learning to code. So, I was not in a hurry to get a job.
 Along with that, by now I understood the different tech roles that are out there and what kind of skillset are required to get a specific job.
 
 The bootcamp made me a person who can be a good web developer but nothing was taught that made me close to a software engineer. If you are confused about what the difference is, according to my limited knowledge, it is,
-Web developer: Knows web frameworks, basics of the browser, the server, tools ( version controllers, bundlers, IDEs, etc). Has experience in building applications.
-Software engineer: Knows computer science concepts like algorithm, data structures, networking, database, programming paradigms, design patterns. Has experience in coding but not necessarily building complete web applications.
+- Web developer: Knows web frameworks, basics of the browser, the server, tools ( version controllers, bundlers, IDEs, etc). Has experience in building applications.
+
+- Software engineer: Knows computer science concepts like algorithm, data structures, networking, database, programming paradigms, design patterns. Has experience in coding but not necessarily building complete web applications.
+
 I decided that I wanted to get into a software engineer role than a web developer role. So, I listed down the concepts that need to be covered to clear a software engineer interview and get a job.
 
 The concepts that I had to prepare were,

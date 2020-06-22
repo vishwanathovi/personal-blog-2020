@@ -1,11 +1,11 @@
 ---
-title: My struggle with Social anxiety disorder
+title: My Struggle With Social Anxiety Disorder
 date: "2020-03-20T16:49:32.169Z"
 template: "post"
 draft: false
 slug: "my-struggle-with-social-anxiety-disorder"
 category: "personal"
-description: "Day to day living with mental health issue and beating it with persistency"
+description: "A personal walkthrough of a decade of living with social anxiety and finally coming over it."
 ---
 
 I was around 16 when I moved to another town for studies. I had finished high school and for the first time, I was going to live away from my parents. I stayed at the college hostel. A compact setup with 30 odd rooms holding 100 odd guys.
