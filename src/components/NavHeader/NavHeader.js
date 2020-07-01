@@ -3,6 +3,7 @@ import React from 'react';
 import styles from './NavHeader.module.scss'
 
 import Author from '../Author';
+import Menu from '../Menu';
 
 function NavHeader() {
 
@@ -12,7 +13,7 @@ function NavHeader() {
           <Author />
         </div>
         <div className={styles['header__right']}>
-          Menu items
+          <Menu horizontal bold />
         </div>
       </div>
   );
