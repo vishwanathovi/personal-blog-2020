@@ -11,9 +11,9 @@ tags:
 description: "A personal walkthrough of a decade of living with social anxiety and finally coming over it."
 ---
 
-<img src="https://www.thebetterindia.com/wp-content/uploads/2018/08/g.png" alt="Social anxiety picturised" width="80%">
+![](./media-links/sad-2.jpg)
 
-Before even starting to write this article, I wanted specify why I am writing this article.
+Before even starting to write this article, I wanted to specify why I am writing this article.
 
 ### Why?
 
