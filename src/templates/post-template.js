@@ -5,7 +5,7 @@ import Layout from '../components/Layout';
 import Post from '../components/Post';
 import { useSiteMetadata } from '../hooks';
 import type { MarkdownRemark } from '../types';
-import NavHeader from '../components/NavHeader'
+import Navheader from '../components/Navheader';
 
 type Props = {
   data: {
@@ -22,7 +22,7 @@ const PostTemplate = ({ data }: Props) => {
   return (
     <div>
   {/* TODO: Remove this extra div. It is used to accomodate NavHeader */}
-      <NavHeader />
+      <Navheader />
       <Layout title={`${postTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage} >
 
         <Post post={data.markdownRemark} />
