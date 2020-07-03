@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
     {
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: ' Vishwa',
+    name: ' Vishwanatha H M',
     photo: '/photo-color.jpg',
     bio: 'Currently Data Scientist @Kiwi Games India, previously worked at @Flipkart, @SigTuple, @MuSigma. I blog about coding, data science & some personal experiences.',
     contacts: {

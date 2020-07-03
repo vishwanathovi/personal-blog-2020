@@ -9,6 +9,10 @@
     margin: 0 -10px;
     padding: 0;
 
+    &-title {
+      display: inline-block;
+    }
+
     &-item {
       display: inline-block;
       margin: 10px 5px;

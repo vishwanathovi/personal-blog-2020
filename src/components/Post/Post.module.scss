@@ -2,6 +2,11 @@
 @import '../../assets/scss/mixins';
 
 .post {
+  &__authorContainer {
+    border-top: 1px solid $color-gray-border;
+    border-bottom: 1px solid $color-gray-border;
+  }
+
   &__footer {
     max-width: $layout-post-width;
     margin: 0 auto;
