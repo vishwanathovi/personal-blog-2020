@@ -2,12 +2,10 @@
 import React from 'react';
 import styles from './NavHeader.module.scss'
 
-import Author from '../Author';
-import Menu from '../Menu';
+import Author from './../Author';
+import Menu from './../Menu';
 
-function NavHeader() {
-
-  return (
+const NavHeader = () => (
       <div className={styles['header']}>
         <div className={styles['header__left']}>
           <Author />
@@ -16,7 +14,6 @@ function NavHeader() {
           <Menu horizontal bold />
         </div>
       </div>
-  );
-}
+);
 
 export default NavHeader;
