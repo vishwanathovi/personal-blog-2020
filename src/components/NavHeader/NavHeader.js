@@ -1,11 +1,11 @@
 
 import React from 'react';
-import styles from './Navheader.module.scss'
+import styles from './NavHeader.module.scss'
 
 import Author from './../Author';
 import Menu from './../Menu';
 
-const Navheader = () => (
+const NavHeader = () => (
       <div className={styles['header']}>
         <div className={styles['header__left']}>
           <Author />
@@ -16,4 +16,4 @@ const Navheader = () => (
       </div>
 );
 
-export default Navheader;
+export default NavHeader;
