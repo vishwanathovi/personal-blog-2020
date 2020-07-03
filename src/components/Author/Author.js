@@ -3,7 +3,7 @@ import React from 'react';
 
 import styles from './Author.module.scss';
 
-export const PureAuthor = ({ author, showBio, showTwitter }) => {
+const PureAuthor = ({ author, showBio, showTwitter }) => {
   const photoSize = showBio ? 60 : 48;
 
   return (
@@ -35,7 +35,7 @@ export const PureAuthor = ({ author, showBio, showTwitter }) => {
   );
 };
 
-export const Author = props => (
+const Author = props => (
   <StaticQuery
     query={graphql`
       query AuthorQuery {
