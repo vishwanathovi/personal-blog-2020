@@ -1,6 +1,6 @@
 ---
 title: The alchemy of individual decision making / Why not question other's decisions and not defend yours?
-date: "2020-03-20T16:49:32.169Z"
+date: "2021-05-25T16:49:32.169Z"
 template: "post"
 draft: true
 slug: "the-alchemy-of-individual-decision-making"
