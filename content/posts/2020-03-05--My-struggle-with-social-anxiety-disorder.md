@@ -2,7 +2,7 @@
 title: My Struggle With Social Anxiety Disorder
 date: "2020-03-20T16:49:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "my-struggle-with-social-anxiety-disorder"
 category: "Personal"
 tags:
@@ -12,6 +12,8 @@ description: "A personal walkthrough of a decade of living with social anxiety a
 ---
 
 ![](./media-links/sad-2.jpg)
+
+
 
 Before even starting to write this article, I wanted to specify why I am writing this article.
 
@@ -23,7 +25,7 @@ This is one of the main reasons why I am writing this article.
 
 ### Childhood
 
-My father is many things. A alcoholic. Abusive father. World’s most strict critic (to himself & any one around him). A depression and generalized anxiety disorder sufferer self-medicating himself with alcohol. Pretty smart. As a father, he was strict to a level that brought down our self-esteem to the ground and below. His perfectionist standards put on us and himself, trained us to think we were not good enough for this world.
+My father is many things. A alcoholic. Abusive father. World’s most strict critic (to himself & any one around him). A depression and generalised anxiety disorder sufferer self-medicating himself with alcohol. Pretty smart. As a father, he was strict to a level that brought down our self-esteem to the ground and below. His perfectionist standards put on us and himself, trained us to think we were not good enough for this world.
 
 My mother is schizophrenic. In simple terms, my mother hears an imaginary person talking to her all the time. Schizophrenia is this condition where people are unable to understand that this is an illusion and believe that it is a person in real life. She was comfortable doing her day to day responsibilities like cooking, cleaning, and taking care of us. But, she did not have any social setup that she was part of.
 
